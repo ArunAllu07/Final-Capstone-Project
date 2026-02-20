@@ -83,4 +83,4 @@ The final model not only reached 97% accuracy but also gave actionable insights 
 📬 Contact
 
 If you’d like to discuss this project or collaborate on something similar, feel free to reach out:
-📧 saikushalthogaru@gmail.com
+📧 kethavatharun856@gmail.com
